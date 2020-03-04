@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Expense Tracker 
+#### Created an Expense Tracker using React/Hooks
+
+![Expense Tracker](https://user-images.githubusercontent.com/34385544/75932758-1bbafd00-5e2d-11ea-963c-824de8b1c07b.PNG)
+
+
 
 ## Available Scripts
 
